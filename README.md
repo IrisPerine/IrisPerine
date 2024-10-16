@@ -1,4 +1,4 @@
-- 👋 Olá, meu nome é Iris Perine!
+- Olá, meu nome é Iris Perine! 👋
 - Sou estudante de Análise e Desenvolvimento de Sistemas;
 - Linguagens em aprendizado:
   - Python;
